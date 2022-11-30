@@ -133,7 +133,7 @@ const config = {
         //     ],
         //   },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Hyperforge LLC ||| a helpful resource for tonal harmony`,
+        copyright: `Copyright © ${new Date().getFullYear()} Loudverse ||| a helpful resource for tonal harmony`,
       },
       prism: {
         theme: lightCodeTheme,
