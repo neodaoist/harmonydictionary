@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkharmonydictionary=self.webpackChunkharmonydictionary||[]).push([[4472],{5702:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/harmonydictionary/blog/tags/hola","allTagsPath":"/harmonydictionary/blog/tags","count":1}')}}]);
