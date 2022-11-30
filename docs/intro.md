@@ -11,14 +11,12 @@ sidebar_position: 1
 The **Harmony Dictionary** is a helpful resource for applying tonal harmony in your music composition.
 - More speed and clarity when harmonizing lines
 - Better mental representations -- keep it simple
-- Easy to begin in diatonic harmony, flexable into the reaches of [the](https://www.goodreads.com/book/show/890009.Twentieth_Century_Harmony) [twentieth](https://www.goodreads.com/book/show/1000318.Harmony_Book) [century](https://www.scribd.com/doc/169080100/Harmonic-Materials-of-Modern-Music-Howard-Hanson) (21st?)
+- Easy to use with diatonic harmony, flexable into the reaches of [the](https://www.goodreads.com/book/show/890009.Twentieth_Century_Harmony) [twentieth](https://www.goodreads.com/book/show/1000318.Harmony_Book) [century](https://www.scribd.com/doc/169080100/Harmonic-Materials-of-Modern-Music-Howard-Hanson) (21st?)
 
 It is organized into 3 sections:
 1. Alphabet -- scale degrees of all major and minor keys
 2. Vocabulary -- chords for harmonizing melody or bass for all scale degrees
 3. Grammar -- chord progressions for harmonizing scale degrees in succession
-
-You can think of XYZ as ABC. Therefore definitely DEF.
 
 ### Examples
 #### Alphabet ("letters")
@@ -44,3 +42,7 @@ Stay up-to-date on the latest music theory trends and developments — we provid
 We also provide helpful diagrams to help you visualize music theory concepts and understand the relationships between chords and scales. With Harmony Dictionary, you can easily access the information you need to become a *more proficient* musician and composer, with the end goal being **speed** and **fluency** when harmonizing melodies and basslines.
 
 We hope that our website will help you unlock your potential and compose beautiful classical music. Get started today and explore the world of Western tonal harmony with us!
+
+---
+
+🚧 *UNDER CONSTRUCTION* This website covers ~33% of tonal harmony, more soon ™️ 🚧
