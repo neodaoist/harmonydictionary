@@ -43,6 +43,4 @@ We also provide helpful diagrams to help you visualize music theory concepts and
 
 We hope that our website will help you unlock your potential and compose beautiful classical music. Get started today and explore the world of Western tonal harmony with us!
 
----
-
 🚧 *UNDER CONSTRUCTION* This website covers ~33% of tonal harmony, more soon ™️ 🚧
