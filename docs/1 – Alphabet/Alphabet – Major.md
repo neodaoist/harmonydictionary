@@ -1,1 +1,1 @@
-![Alt text](../../static/alphabet-major.svg)
+![Alt text](../../static/001.svg)
